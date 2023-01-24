@@ -1,0 +1,44 @@
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.contant{
+min-height: 100vh;
+border: 10px brown;
+background-color:black;
+max-width: 900px;
+margin: 0 auto;
+
+}
+h1{
+    margin-right: 300px;
+    margin-top: 70px;
+    color: white;
+    
+}
+h4{
+    color: white;
+}
+img{
+    margin-top: 45px;
+    border-radius: 100px;
+}
+p{
+    margin-top: 60px;
+    margin-left: 50px;
+    color: white;
+    margin-right: 30px;
+}
+h2{
+    margin-top: 50px;
+    margin-left: 50px;
+    color: gray;
+}
+footer{
+  margin-left: 500px;
+}
